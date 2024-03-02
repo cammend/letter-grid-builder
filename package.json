@@ -1,6 +1,6 @@
 {
   "name": "letter-grid-builder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Matrix generator with inserted words to generate boards or games",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
